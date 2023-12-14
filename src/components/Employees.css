@@ -1,0 +1,25 @@
+.card{
+    border: 1px solid black;
+    width: 25vw;
+    height: 50vh;
+    padding: 10px;
+
+}
+.e-det{
+    display: flex;
+    background-color: gray;
+    justify-content: space-evenly;
+    height: 6vh;
+    margin-bottom: 6px;
+}
+.btn{
+    background-color: blue;
+    width: 80px;
+    height: 4vh;
+    margin-top: 6px;
+    color: white;
+}
+.vanish{
+    display: none;
+    color: red;
+}
