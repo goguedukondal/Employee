@@ -5,7 +5,7 @@ import { myContext } from "./Context";
 function Employees() {
   const data = useContext(myContext);
   // console.log(data)
-  const { employees, addToTeam, teams } = data;
+  const { employees, addToTeam } = data;
   // console.log(teams)
   // console.log(employees)
  
